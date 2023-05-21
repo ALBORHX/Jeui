@@ -540,7 +540,5 @@ def free(uid,pwx,tl):
 
         pass
 
-if __Alborh__ == '__main__':
-
     xyz()
 
